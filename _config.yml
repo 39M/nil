@@ -1,0 +1,10 @@
+# Site settings
+title: Xwz7
+email: Xwszc7@Gmail.com
+description: "Try jekyll"
+baseurl: ""
+url: "http://xwz7.github.io/jekyll/"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
