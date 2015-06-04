@@ -5,6 +5,7 @@ description: ""
 baseurl: "/jekyll"
 url: "http://xwz7.github.io/jekyll/"
 img_url: http://xwz7.github.io/jekyll/assets/image
+github_username:  Xwz7
 
 # Build settings
 markdown: kramdown
