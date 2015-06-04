@@ -1,7 +1,6 @@
 ﻿---
 layout: page
-title: About
-permalink: /meet-ingress/
+title: Meet Ingress
 ---
 
 ## Meet Ingress
