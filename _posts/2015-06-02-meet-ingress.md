@@ -21,31 +21,31 @@ Ingress的画面比较有科技感，这里引用一句官方的话吧：“The 
 终于在我打算收工的时候，qsnake菊苣炸掉了“学友书店”！我想这是个好机会，打算把整个工大都用E军的Po围起来。不过手机没电了_(:з」∠)_。去寝室取了移动电源继续Link。
 到了将近九点的时候，终于只差从游泳馆到理学楼雕塑的Link了。
   
-![1](/assets/image/meet-ingress-1.jpg)
+![1]({{  site.img_url  }}/meet-ingress-1.jpg)
   
 正当我走向游泳馆时，我发现之前有几个Po被敌军炸掉了...
 ...这是要逼死强迫症啊！
 于是我连完了剩下的Link后，打算回去补...
   
-![2](/assets/image/meet-ingress-2.jpg)
+![2]({{  site.img_url  }}/meet-ingress-2.jpg)
   
 又得跑回上面去连...
   
-![3](/assets/image/meet-ingress-3.jpg)
+![3]({{  site.img_url  }}/meet-ingress-3.jpg)
   
-![4](/assets/image/meet-ingress-4.jpg)
+![4]({{  site.img_url  }}/meet-ingress-4.jpg)
   
 还差最后几个...
   
-![5](/assets/image/meet-ingress-5.jpg)
+![5]({{  site.img_url  }}/meet-ingress-5.jpg)
   
 终于完工！现在已经是晚上十点多。
   
-![6](/assets/image/meet-ingress-6.jpg)
+![6]({{  site.img_url  }}/meet-ingress-6.jpg)
   
 在Intel Map上看起来是这样的
   
-![Intel Map](/assets/image/meet-ingress-on-intel-map.jpg)
+![Intel Map]({{  site.img_url  }}/meet-ingress-on-intel-map.jpg)
   
 我想我一天升一级的记录就到此为止了...
   

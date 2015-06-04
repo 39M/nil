@@ -4,6 +4,7 @@ email: Xwszc7@Gmail.com
 description: ""
 baseurl: "/jekyll"
 url: "http://xwz7.github.io/jekyll/"
+img_url: http://xwz7.github.io/jekyll/assets/image
 
 # Build settings
 markdown: kramdown
