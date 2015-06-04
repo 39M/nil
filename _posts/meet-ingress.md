@@ -1,4 +1,10 @@
-﻿## Meet Ingress
+﻿---
+layout: page
+title: About
+permalink: /meet-ingress/
+---
+
+## Meet Ingress
 
 之前已多次听说Ingress这个游戏，然而由于墙和懒，一直没有去尝试。
 上周五想试试Google I/O上发布的Inbox，没有在中国区的App Store找到，却发现了Ingress，抱着试试看的心态下载了下来。
