@@ -1,8 +1,6 @@
 ﻿---
-  
 layout: post
 title: "Meet Ingress"
-  
 ---
   
 ## Meet Ingress
