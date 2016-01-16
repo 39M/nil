@@ -1,11 +1,11 @@
 # Site settings
-title: Xwz7 
+title: 39M 
 email: Xwszc7@Gmail.com
 description: ""
 baseurl: "/jekyll"
-url: "http://xwz7.github.io/jekyll/"
-img_url: http://xwz7.github.io/jekyll/assets/image
-github_username:  Xwz7
+url: "http://39m.github.io/jekyll/"
+img_url: http://39m.github.io/jekyll/assets/image
+github_username:  39M
 
 # Build settings
 markdown: kramdown
