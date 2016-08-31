@@ -3,7 +3,7 @@ email: 39@39m.moe
 description: > 
 baseurl: "/nil"
 url: "http://39m.github.io/nil"
-img_url: "/assets/image"
+img_url: "http://39m.github.io/nil/assets/image"
 github_username:  39M
 
 markdown: kramdown
